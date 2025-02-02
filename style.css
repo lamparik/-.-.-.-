@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff4500;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ff4500;
+}
+
+.birthday-cake {
+    width: 200px; /* Установите нужный размер */
+    margin-top: 20px;
+}
+
+.memory-image {
+    width: 300px; /* Установите нужный размер */
+    margin-top: 20px;
+}
